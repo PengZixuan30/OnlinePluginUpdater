@@ -1,0 +1,11 @@
+{
+    "id": "opu",
+    "name": "OnlinePluginUpdater",
+    "version": "1.0.0",
+    "description":{
+        "zh_cn": "这个MCDR插件可以在线自动更新插件",
+        "en_us": "This MCDR plugin can automatically update plugins online."
+    },
+    "author": "yello",
+    "link": ""
+}
